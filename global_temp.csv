@@ -1,0 +1,253 @@
+Country,Temperature
+Aruba,80.6
+Afghanistan,74.0
+Angola,68.5
+Anguilla,79.8
+Åland Islands,58.5
+Albania,71.2
+Netherlands Antilles,54.8
+United Arab Emirates,92.6
+Argentina,51.6
+Armenia,66.5
+American Samoa,72.4
+Antarctica ,-29.1
+French Southern Territories,33.8
+Antigua and Barbuda,82.1
+Australia,56.2
+Austria,59.3
+Azerbaijan,76.3
+Burundi,70.0
+Belgium,62.6
+Benin,79.2
+"Bonaire, Saint Eustatius and Saba",78.1
+Burkina Faso,81.7
+Bangladesh,83.5
+Bulgaria,69.9
+Bahrain,97.6
+Bahamas,83.3
+Bosnia and Herzegovina,65.5
+Saint Barthelemy,75.7
+Belarus,63.5
+Belize,80.6
+Bermuda,80.6
+Bolivia,58.3
+Brazil,69.2
+Barbados,81.5
+Brunei Darussalam,81.5
+Bhutan,63.8
+Bouvet Island,22.9
+Botswana,61.4
+Central African Republic,77.1
+Canada,60.0
+Cocos (Keeling) Islands,68.5
+Switzerland,58.9
+Chile,44.8
+China,74.3
+Côte d`Ivoire,77.5
+Clipperton Island,68.3
+Cameroon,74.6
+Democratic Republic of the Congo,75.3
+Congo,75.0
+Cook Islands,69.0
+Colombia,71.4
+Comoros,72.8
+Cape Verde,73.8
+Costa Rica,71.9
+Cuba,82.6
+Curaçao,85.7
+Christmas Island,66.7
+Cayman Islands,84.0
+Cyprus,79.5
+Czech Republic,62.4
+Germany,62.9
+Djibouti,91.4
+Dominica,76.5
+Denmark,60.9
+Dominican Republic,80.5
+Algeria,80.5
+Ecuador,67.6
+Egypt,83.3
+Eritrea,82.5
+Western Sahara,82.1
+Spain,69.3
+Estonia,60.5
+Ethiopia,68.5
+Finland,56.9
+Fiji,72.3
+Falkland Islands,36.8
+France,64.6
+Faroe Islands,50.5
+Micronesia,79.9
+Gabon,75.4
+United Kingdom,59.0
+Georgia,64.6
+Guernsey,61.3
+Ghana,78.8
+Gibraltar,74.2
+Guinea,76.2
+Guadeloupe,80.4
+Gambia,81.8
+Guinea-Bissau,79.8
+Equatorial Guinea,69.8
+Greece,74.6
+Grenada,80.9
+Greenland,30.6
+Guatemala,71.3
+French Guiana,79.2
+Guam,82.5
+Guyana,80.0
+Hong Kong,83.6
+Heard Island and McDonald Islands,27.1
+Honduras,76.0
+Croatia,68.9
+Haiti,80.7
+Hungary,68.1
+Indonesia,78.8
+Isle of Man,56.6
+India,82.7
+British Indian Ocean Territory,67.5
+Ireland,57.5
+Iran,80.1
+Iraq,91.5
+Iceland,46.3
+Israel,78.6
+Italy,69.5
+Jamaica,79.8
+Jersey,61.7
+Jordan,79.2
+Japan,74.1
+Kazakhstan,70.4
+Kenya,70.6
+Kyrgyzstan,60.0
+Cambodia,83.4
+Kiribati,80.6
+Saint Kitts and Nevis,80.3
+Kosovo,66.4
+Republic of Korea (South Korea),74.6
+Kuwait,97.5
+Laos,78.7
+Lebanon,74.7
+Liberia,76.2
+Libyan Arab Jamahiriya,83.1
+Saint Lucia,79.3
+Liechtenstein,55.5
+Sri Lanka,81.3
+Lesotho,45.0
+Lithuania,62.3
+Luxembourg,62.6
+Latvia,61.0
+"China, Macao Special Administrative Region",84.3
+Saint Martin,80.8
+Morocco,74.6
+Monaco,72.1
+Moldova,69.8
+Madagascar,67.2
+Maldives,70.0
+Mexico,73.2
+Marshall Islands,73.9
+Macedonia,67.7
+Mali,85.3
+Malta,78.9
+Myanmar,79.0
+Montenegro,64.0
+Mongolia,61.5
+Northern Mariana Islands,80.8
+Mozambique,70.2
+Mauritania,89.4
+Montserrat,80.1
+Martinique,80.0
+Mauritius,66.4
+Malawi,67.6
+Malaysia,80.5
+Mayotte,75.5
+Namibia,62.4
+New Caledonia,65.8
+Niger,86.1
+Norfolk Island,55.9
+Nigeria,79.2
+Nicaragua,77.9
+Niue,69.5
+Netherlands,61.9
+Norway,54.6
+Nepal,70.1
+Nauru,79.7
+New Zealand,48.4
+Oman,86.2
+Pakistan,84.6
+Panama,78.0
+Pitcairn,63.9
+Peru,62.2
+Philippines,79.5
+Palau,81.7
+Papua New Guinea,73.9
+Poland,63.1
+Puerto Rico,80.1
+Democratic People`s Republic of Korea (North Korea),70.6
+Portugal,68.9
+Paraguay,66.6
+Occupied Palestinian Territory,78.9
+French Polynesia,71.2
+Qatar,96.0
+Réunion,57.3
+Romania,67.0
+Russian Federation,62.4
+Rwanda,67.4
+Saudi Arabia,88.8
+Sudan,86.8
+Senegal,82.9
+Singapore,82.3
+South Georgia and the South Sandwich Islands,25.1
+Saint Helena,49.7
+Svalbard and Jan Mayen,37.3
+Solomon Islands,75.8
+Sierra Leone,77.5
+El Salvador,77.7
+San Marino,67.5
+Sint Maarten,81.0
+Somalia,81.7
+Spratly islands,70.5
+Saint Pierre and Miquelon,61.7
+Serbia,68.8
+South Sudan,79.9
+Sao Tome and Principe,67.1
+Suriname,81.1
+Slovakia,63.3
+Slovenia,64.8
+Sweden,57.8
+Swaziland,62.3
+Seychelles,74.9
+Syrian Arab Republic,80.1
+Turks and Caicos,82.3
+Chad,83.2
+Togo,78.2
+Thailand,82.5
+Tajikistan,64.1
+Tokelau,82.1
+Turkmenistan,82.2
+Timor-Leste,75.4
+Tonga,69.6
+Trinidad and Tobago,81.1
+Tunisia,80.0
+Turkey,72.5
+Tuvalu,77.8
+Taiwan,75.6
+United Republic of Tanzania,71.5
+Uganda,72.6
+Ukraine,67.6
+United States Minor Outlying Islands,75.0
+Uruguay,55.2
+United States of America,74.1
+Uzbekistan,77.5
+Vatican,75.0
+Saint Vincent and the Grenadines,81.4
+Venezuela,78.5
+British Virgin Islands,80.2
+Virgin Islands (US),81.4
+Viet Nam,83.6
+Vanuatu,72.9
+Wallis and Futuna,75.5
+Samoa,77.8
+Yemen,79.0
+South Africa,56.6
+Zambia,66.9
+Zimbabwe,63.62791042
