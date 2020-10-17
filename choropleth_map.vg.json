@@ -4,7 +4,7 @@
   "width": 800,
   "height": 600,
   "data": {
-    "url": "https://github.com/Vherakaey/homeworkWeek9/blob/main/map.topojson",
+    "url": "https://raw.githubusercontent.com/Vherakaey/homeworkWeek9/main/map.topojson",
     "format": {
           "type": "topojson",
           "feature": "forest.csv"
@@ -14,7 +14,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://github.com/Vherakaey/homeworkWeek9/blob/main/forest.csv"
+          "url": "https://raw.githubusercontent.com/Vherakaey/homeworkWeek9/main/forest.csv"
         },
         "key": "Entity",
         "fields": ["Area"]
