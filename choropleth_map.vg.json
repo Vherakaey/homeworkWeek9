@@ -1,6 +1,6 @@
 
 { "$schema": "https://vega.github.io/schema/vega-lite/v4.json", 
- "title": "Global Temp", "width": 800, "height": 600, 
+ "title": "Global Temperature", "width": 800, "height": 600, 
  "projection": {"type": "equirectangular"}, 
  
 "data": { "url": "https://raw.githubusercontent.com/Vherakaey/homeworkWeek9/main/globalMap.topojson", 
