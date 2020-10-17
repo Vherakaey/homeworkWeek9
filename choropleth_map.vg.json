@@ -4,23 +4,22 @@
   "width": 800,
   "height": 600,
   "data": {
-    "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+    "url": "https://github.com/Vherakaey/homeworkWeek9/blob/main/map.topojson",
     "format": {
           "type": "topojson",
-          "feature": "ne_110m_admin_0_countries"
+          "feature": "forest.csv"
         }
   },
   "transform": [{
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/3_choropleth_map/data/covid_10_10_2020.csv"
+          "url": "https://github.com/Vherakaey/homeworkWeek9/blob/main/forest.csv"
         },
-        "key": "Country",
-        "fields": ["Active"]
+        "key": "Entity",
+        "fields": ["Area"]
       }
     },
-    {"calculate": "datum.Active + 0.1", "as": "Active Cases"}
   ],
   "projection": {
     "type": "equirectangular"
@@ -30,7 +29,7 @@
     },
   "encoding": {
     "color": {
-      "field": "Active Cases",
+      "field": "Area",
       "type": "quantitative",
       "scale": {"type": "log"}
     },
