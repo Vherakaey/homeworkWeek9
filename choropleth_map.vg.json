@@ -19,7 +19,7 @@
         "key": "Entity",
         "fields": ["Area"]
       }
-    },
+    }
   ],
   "projection": {
     "type": "equirectangular"
