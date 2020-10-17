@@ -3,7 +3,7 @@
  "title": "Global Temp", "width": 800, "height": 600, 
  "projection": {"type": "equirectangular"}, 
  
-"data": { "url": "https://raw.githubusercontent.com/Vherakaey/homeworkWeek9/main/idk.topojson", 
+"data": { "url": "https://raw.githubusercontent.com/Vherakaey/homeworkWeek9/main/globalMap.topojson", 
 "format": {"type": "topojson", "feature": "custom"} }, 
 
 "transform": [ { "lookup": "properties.admin", "from": { "data": 
